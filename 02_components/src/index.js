@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom'  
 
 const App = () => {
   return (
@@ -19,7 +19,7 @@ const App = () => {
               Nice blog post!
             </div>
           </div>
-      </div> 
+      </div>
     </div>
   );
 }
